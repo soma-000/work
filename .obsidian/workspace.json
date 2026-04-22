@@ -11,17 +11,30 @@
             "id": "d0ff9f123d987ee6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "キメレル競合分析/日々の進め方/04-22.md",
-                "mode": "source",
-                "source": false
+                "file": "無題のファイル.base",
+                "viewName": "表"
               },
-              "icon": "lucide-file",
-              "title": "04-22"
+              "icon": "lucide-table",
+              "title": "無題のファイル"
+            }
+          },
+          {
+            "id": "40de3c0777213183",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "無題のファイル.base",
+                "viewName": "表"
+              },
+              "icon": "lucide-table",
+              "title": "無題のファイル"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,12 +197,13 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "d0ff9f123d987ee6",
+  "active": "40de3c0777213183",
   "lastOpenFiles": [
-    "キメレル競合分析/日々の進め方/04-20.md",
-    "キメレル競合分析/日々の進め方/04-22.md",
-    "キメレル競合分析/改善案整理.md",
+    "無題のファイル.md",
     "無題のファイル.base",
+    "キメレル競合分析/日々の進め方/04-22.md",
+    "キメレル競合分析/日々の進め方/04-20.md",
+    "キメレル競合分析/改善案整理.md",
     "キメレル競合分析/調査内容整理.md",
     "キメレル競合分析/日々の進め方/04-15.md",
     "キメレル競合分析/日々の蓄積/気づき・所感.md",
