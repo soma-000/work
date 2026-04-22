@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowUpLeftSquare",
+      "LiAlarmCheck",
       "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
@@ -44,5 +46,14 @@
   "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方": "LiFolder",
   "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方": "LiFolder",
   "キメレルアップデートPJT/03_キメレルのVPを考えるやり方": "LiFolder",
-  "キメレルアップデートPJT/99_日々の蓄積": "LiFolder"
+  "キメレルアップデートPJT/99_日々の蓄積": "LiFolder",
+  "キメレルアップデートPJT/タスク管理.md": {
+    "iconName": "LiAlarmCheck",
+    "iconColor": "#ff0000"
+  },
+  "キメレルアップデートPJT/PJT概要.md": {
+    "iconName": "LiArrowUpLeftSquare",
+    "iconColor": "#ff0000"
+  },
+  "キメレルアップデートPJT/04_改善策を考える？": "LiFolder"
 }
