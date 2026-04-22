@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e0cfe49d7f909c71",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdca1e4a7e5cab7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0ff9f123d987ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "キメレル競合分析/改善案整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "改善案整理"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5870a1f06ec7ae40",
+    "type": "split",
+    "children": [
+      {
+        "id": "13192b248e29b63a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07eb0893dbfe1925",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "06a4ad0da534937e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "7329aa3b5422502d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fa9d59259de9a28",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65ddd6b8c365575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150077b6b53b418a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "キメレル競合サイト分析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "キメレル競合サイト分析へのバックリンク"
+            }
+          },
+          {
+            "id": "cece6bdb707e6251",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "キメレル競合サイト分析.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "キメレル競合サイト分析からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "18a41eda9d4983cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "7ac9bf4f0505b8d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "746f170a6825ae53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "キメレル競合サイト分析.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "キメレル競合サイト分析のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "d0ff9f123d987ee6",
+  "lastOpenFiles": [
+    "無題のファイル.base",
+    "キメレル競合分析/改善案整理.md",
+    "キメレル競合分析/調査内容整理.md",
+    "キメレル競合分析/日々の進め方/04-15.md",
+    "キメレル競合分析/日々の蓄積/気づき・所感.md",
+    "キメレル競合分析/PJT概要.md",
+    "キメレル競合分析/日々の進め方/04-20.md",
+    "キメレル競合分析/日々の蓄積/反省点.md",
+    "キメレル競合分析/日々の蓄積/野中さんMTG メモ.md",
+    "谷口さん/Open Time.md",
+    "谷口さん/OpenTime/Open Time.md",
+    "その他/コリンの約束ワーク.md",
+    "ノート名.md",
+    "ようこそ.md",
+    "無題のファイル.canvas",
+    "無題のファイル 1.base",
+    "無題のファイル 2.base",
+    "キメレル競合分析/日々の蓄積",
+    "キメレル競合分析/日々の進め方",
+    "キメレル競合分析",
+    "その他",
+    "谷口さん/OpenTime",
+    "谷口さん"
+  ]
+}
