@@ -37,9 +37,11 @@
     "debugMode": true,
     "useInternalPlugins": true
   },
-  "キメレル競合分析": "LiFolder",
-  "キメレル競合分析/日々の進め方": "LiFolder",
-  "キメレル競合分析/日々の蓄積": "LiFolder",
   "谷口さん": "LiFolder",
-  "その他": "LiFolder"
+  "その他": "LiFolder",
+  "キメレルアップデートPJT": "LiFolder",
+  "キメレルアップデートPJT/01_キメレル競合分析": "LiFolder",
+  "キメレルアップデートPJT/01_キメレル競合分析/日々の蓄積": "LiFolder",
+  "キメレルアップデートPJT/01_キメレル競合分析/日々の進め方": "LiFolder",
+  "キメレルアップデートPJT/02_理想状態考案": "LiFolder"
 }
