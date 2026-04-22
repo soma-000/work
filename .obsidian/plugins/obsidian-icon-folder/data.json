@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiArrowUpLeftSquare",
+      "LiAlarmCheck",
+      "LiFolder"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "\\.md$",
+        "icon": "LiFileText",
+        "for": "everything",
+        "order": 0
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": true,
+    "useInternalPlugins": true
+  },
+  "谷口さん": "LiFolder",
+  "その他": "LiFolder",
+  "キメレルアップデートPJT": "LiFolder",
+  "キメレルアップデートPJT/01_ 課題からアップデートする考え方": "LiFolder",
+  "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方": "LiFolder",
+  "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方": "LiFolder",
+  "キメレルアップデートPJT/03_キメレルのVPを考えるやり方": "LiFolder",
+  "キメレルアップデートPJT/99_日々の蓄積": "LiFolder",
+  "キメレルアップデートPJT/タスク管理.md": {
+    "iconName": "LiAlarmCheck",
+    "iconColor": "#ff0000"
+  },
+  "キメレルアップデートPJT/PJT概要.md": {
+    "iconName": "LiArrowUpLeftSquare",
+    "iconColor": "#ff0000"
+  },
+  "キメレルアップデートPJT/04_改善策を考える？": "LiFolder"
+}

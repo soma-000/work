@@ -1,0 +1,99 @@
+# 課題
+### ①ランキング（おすすめ3選）の情報が薄い
+##### 概要
+- 比較表内の項目の再掲が中心で、新規情報があまりない
+- この項目だけ見てもサービスのイメージが湧きにくく、送客につながらなさそう
+##### 理想状態
+- サービスの全体像が伝わって、これで問い合わせができると感じている状態
+	- 他に口コミなどの情報が知りたいとは感じていない状態
+- 他の製品のことが気になっていない状態
+##### いいなと思ったサイト
+- https://englishfactor.jp/media/online/english-coaching/
+- https://resemom.jp/mitsukaru-eikaiwa/coaching-english/
+- https://lp.setsuzei.net/realestateinvestment/
+- https://www.sns-recruitpartner.com/
+- https://mybest-pick.com/ab/realestate-toushi-hikaku02
+- https://fkr.or.jp/realestate-investment-osusume/
+- https://buzzpark.jp/feature/realestate-ichioshi-04
+---
+
+- https://englishfactor.jp/media/online/english-coaching/
+	- メリットデメリットなど、情報が網羅されている感じがいい
+	- 文章ですべてを説明してくれて、それがどういうサービスなのかもわかり、懸念点や、口コミでのいまいちな点とかもわかって、他に改めてこれを調べたいみたいな気持ちにならない
+- https://resemom.jp/mitsukaru-eikaiwa/coaching-english/
+	- 各項目に対する詳細な説明があるから、文章量が一つの大きなポイント？
+- https://lp.setsuzei.net/realestateinvestment/
+	- でもこれは文章が少なくても、網羅されている感じがある
+	- 意外と会社概要を見ると、会社の存在が実感として感じやすくなり、親しみが生まれやすい
+	- ちゃんとしてそうな会社とか、その会社が実在しているんだと感じ、怪しさみたいなものがなくなる
+- https://www.sns-recruitpartner.com/
+	- ここも同様にどういう会社かのイメージが湧きやすくなっている⇒ただ導入事例に関しては、あんまり目に入らなかった、イメージができなかった
+		- 人の顔とかが大切なのかも？アイコンとか
+- https://mybest-pick.com/ab/realestate-toushi-hikaku02
+	- PR企業だけイメージがめちゃくちゃわく、
+	- とにかく企業の中身やサービスを利用中のイメージが、なぜ選ぶのかだったり、口コミ等から実感できそう
+- https://fkr.or.jp/realestate-investment-osusume/
+	- 他と同じ？
+- https://buzzpark.jp/feature/realestate-ichioshi-04
+	- 項目数が多くて、いっぱい色もあるのと、口コミがあって、人が使っている感もあっていい
+### ②ファクトにこだわりすぎて、サイトに人間味がない/機械的に感じる
+##### 概要
+- 競合は口コミの導入等をしているのに対し、キメレルは無機質すぎるので、ユーザーに情報が入りくい
+##### 理想状態
+- ぶっきらぼうに情報だけ押し付けられている感じがない
+- 信頼できる人に押し出してもらっている感じがある
+- 温かみを感じる
+- 押し付けられている感じがしない
+- なんかチェックリストといった、自分のことを考えてくれているなと感じたものに対して、人間味を感じるかも
+- 思いやりを感じた際に
+##### いいなと思ったサイト
+- https://englishfactor.jp/media/online/english-coaching/
+- https://lp.setsuzei.net/realestateinvestment/
+- https://fkr.or.jp/realestate-investment-osusume/
+- https://smartsitter.jp/column/post-4148/
+---
+- https://englishfactor.jp/media/online/english-coaching/
+	- 人の顔が見えるから、この人が書いているんだと想像でき、安心できる
+	- アイコンが見えたり、ダメなところとかも紹介してくれて、機械的じゃない感じがする
+- https://lp.setsuzei.net/realestateinvestment/
+	- 監修者からのコメントが見れて、人が動かしている感じがする
+	- 項目が多くなさすぎないのもいいなと感じる
+- https://fkr.or.jp/realestate-investment-osusume/
+	- 人の顔？
+	- ちゃんと調査しましたですよ感が出ている
+	- 機械的に出しておらず、ちゃんと調査しましたよって感じ
+- https://smartsitter.jp/column/post-4148/
+	- チェックリストが、ユーザーのことを想いやってくれている感が出て、いいなと感じる
+### ③送客の押しが弱い
+##### 概要
+- ポップアップ/CTA等がほとんどなく、CVポイントが少ない
+##### 理想状態
+- やった方がいいなと思える
+- ぱっと情報を貰える
+- 嫌な感じがなく、背中を押してもらえる感じ
+- ずっと何かが目に入っていて、そこが頭の片隅にありながら、寄せられていく感覚
+##### いいなと思ったサイト
+- https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/
+- https://buzzpark.jp/feature/realestate-ichioshi-04
+- https://www.abkss.jp/blog/169
+- https://g.babysitter-best.net/
+---
+- https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/
+	- 初めのでかいCTAみたいなもので押し出しを感じる
+	- あとは細かいTCBのCTA
+- https://buzzpark.jp/feature/realestate-ichioshi-04
+	- ポップアップがよさそう
+	- 追従型のCTA
+	- 限定レポートと、CTAのボタンが動くのがいい
+- https://www.abkss.jp/blog/169
+	- ずっとCTAが追従してくる
+- https://g.babysitter-best.net/
+	- ポップアップ
+### ④AIO対策が弱い
+##### 概要
+- 現在はAIO対策で取れているが、今後のことを考慮して、強化をした方がいい
+- 例えば同一ドメインにする
+##### 理想状態
+- AIにたくさん引用をされる？
+##### いいなと思ったサイト
+- 
