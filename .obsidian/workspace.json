@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bdca1e4a7e5cab7e",
+        "id": "3428074186b55dc1",
         "type": "tabs",
         "children": [
           {
-            "id": "d0ff9f123d987ee6",
+            "id": "3edb6d08d72c307f",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "無題のファイル.base",
-                "viewName": "表"
-              },
-              "icon": "lucide-table",
-              "title": "無題のファイル"
-            }
-          },
-          {
-            "id": "40de3c0777213183",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "無題のファイル.base",
-                "viewName": "表"
-              },
-              "icon": "lucide-table",
-              "title": "無題のファイル"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,17 +180,19 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "40de3c0777213183",
+  "active": "07eb0893dbfe1925",
   "lastOpenFiles": [
-    "無題のファイル.md",
     "無題のファイル.base",
+    "無題のファイル 1.base",
+    "無題のファイル.canvas",
     "キメレル競合分析/日々の進め方/04-22.md",
+    "キメレル競合分析/調査内容整理.md",
+    "キメレル競合分析/PJT概要.md",
+    "無題のファイル.md",
     "キメレル競合分析/日々の進め方/04-20.md",
     "キメレル競合分析/改善案整理.md",
-    "キメレル競合分析/調査内容整理.md",
     "キメレル競合分析/日々の進め方/04-15.md",
     "キメレル競合分析/日々の蓄積/気づき・所感.md",
-    "キメレル競合分析/PJT概要.md",
     "キメレル競合分析/日々の蓄積/反省点.md",
     "キメレル競合分析/日々の蓄積/野中さんMTG メモ.md",
     "谷口さん/Open Time.md",
@@ -215,8 +200,6 @@
     "その他/コリンの約束ワーク.md",
     "ノート名.md",
     "ようこそ.md",
-    "無題のファイル.canvas",
-    "無題のファイル 1.base",
     "無題のファイル 2.base",
     "キメレル競合分析/日々の蓄積",
     "キメレル競合分析/日々の進め方",
