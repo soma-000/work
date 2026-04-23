@@ -11,21 +11,14 @@
             "id": "daa3780d38cd3940",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "キメレルアップデートPJT/タスク管理.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "タスク管理"
+              "icon": "lucide-file",
+              "title": "理想状態の言語化 ver2"
             }
           },
           {
@@ -184,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "キメレルアップデートPJT/タスク管理.md",
+                "file": "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "タスク管理のアウトライン"
+              "title": "理想状態の言語化 ver2のアウトライン"
             }
           }
         ]
@@ -215,11 +208,11 @@
   },
   "active": "daa3780d38cd3940",
   "lastOpenFiles": [
+    "キメレルアップデートPJT/タスク管理.md",
     "キメレルアップデートPJT/このフォルダの開発方針.md",
     "キメレルアップデートPJT/PJT概要.md",
     "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver2.md",
     "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver1.md",
-    "キメレルアップデートPJT/タスク管理.md",
     "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
     "キメレルアップデートPJT/99_日々の蓄積/気づき・所感.md",
     "キメレルアップデートPJT/99_日々の蓄積/反省点.md",
