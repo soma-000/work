@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "谷口さん/Open Time.md",
+                "file": "キメレルアップデートPJT/PJT概要.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Time"
+              "title": "PJT概要"
             }
           },
           {
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fa9d59259de9a28",
@@ -178,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "谷口さん/Open Time.md",
+                "file": "キメレルアップデートPJT/PJT概要.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Open Timeのアウトライン"
+              "title": "PJT概要のアウトライン"
             }
           }
         ]
@@ -209,6 +208,7 @@
   },
   "active": "daa3780d38cd3940",
   "lastOpenFiles": [
+    "谷口さん/Open Time.md",
     "キメレルアップデートPJT/タスク管理.md",
     "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver2.md",
     "キメレルアップデートPJT/このフォルダの開発方針.md",
@@ -233,7 +233,6 @@
     "無題のファイル 1.base",
     "無題のファイル.base",
     "無題のファイル.canvas",
-    "谷口さん/Open Time.md",
     "谷口さん/OpenTime/Open Time.md",
     "その他/コリンの約束ワーク.md",
     "ノート名.md",
