@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ステップ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,46 +186,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "9d4eed1a58df6c7b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9433304fe1d5e362",
-        "type": "window",
-        "children": [
-          {
-            "id": "0c965bfffbcbfe59",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "41285257b069819c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "キメレルアップデートPJT/PJT概要.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "PJT概要"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 90,
-        "y": 49,
-        "width": 937,
-        "height": 686,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "06a4ad0da534937e",
+  "active": "2ddaa681e65cc1dc",
   "lastOpenFiles": [
     "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
     "キメレルアップデートPJT/PJT概要.md",
