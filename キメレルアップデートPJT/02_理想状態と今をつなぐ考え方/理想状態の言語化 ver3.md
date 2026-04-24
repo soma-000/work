@@ -27,24 +27,24 @@
 | 17  | その他   | 企業の  <br>カオスマップ     | 4                 | ×   | ×   | ×   | 〇   | ×   | ×   | ×   | ×   | ×   | [https://resemom.jp/mitsukaru-eikaiwa/coaching-english/  <br>](https://resemom.jp/mitsukaru-eikaiwa/coaching-english/)[https://fkr.or.jp/realestate-investment-osusume/](https://fkr.or.jp/realestate-investment-osusume/)                     |
 | 18  | その他   | よくある質問              | 4                 | ×   | 〇   | ×   | 〇   | ×   | ×   | 〇   | 〇   | ×   | [https://fkr.or.jp/realestate-investment-osusume/](https://fkr.or.jp/realestate-investment-osusume/)                                                                                                                                           |
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|No|種類|施策|サイト数  <br>(max11)|1-1|1-2|2-1|2-2|3-1|3-2|4-1|4-2|4-3|最もイメージ  <br>に近いサイト|
-|1|MV付近|編集者の顔|2|×|×|×|〇|×|×|×|×|×|[https://englishfactor.jp/media/online/english-coaching/](https://englishfactor.jp/media/online/english-coaching/)|
-|2|MV付近|冒頭にＯＯ社の記載|6|×|×|×|〇|〇|〇|〇|×|〇|[https://mybest-pick.com/ab/realestate-toushi-hikaku02](https://mybest-pick.com/ab/realestate-toushi-hikaku02)  <br>[https://fkr.or.jp/realestate-investment-osusume/](https://fkr.or.jp/realestate-investment-osusume/)|
-|3|製品紹介欄|会社概要|8|〇|〇|×|〇|×|×|×|×|×|[https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)|
-|4|製品紹介欄|企業の特徴  <br>（長文での説明）|8|〇|〇|×|〇|×|×|〇|〇|×|[https://resemom.jp/mitsukaru-eikaiwa/coaching-english/](https://resemom.jp/mitsukaru-eikaiwa/coaching-english/)|
-|5|製品紹介欄|ＯＯが  <br>選ばれるわけ|1|×|〇|×|〇|×|〇|〇|〇|×|[https://mybest-pick.com/ab/realestate-toushi-hikaku02](https://mybest-pick.com/ab/realestate-toushi-hikaku02)|
-|6|製品紹介欄|こんな人/企業にお勧め|2|×|〇|〇|〇|〇|〇|〇|〇|〇|[https://resemom.jp/mitsukaru-eikaiwa/coaching-english/](https://resemom.jp/mitsukaru-eikaiwa/coaching-english/)|
-|7|製品紹介欄|編集部のコメント|2|〇|×|×|〇|×|〇|〇|〇|×|[https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)|
-|8|製品紹介欄|口コミの有無|6|〇|〇|〇|〇|×|×|×|×|×|[https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/  <br>](https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/)[https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)|
-|9|製品紹介欄|口コミの年齢等|4|〇|×|〇|〇|×|×|×|×|×|[https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)|
-|10|製品紹介欄|口コミの評価  <br>(★4等)|2|×|〇|〇|〇|×|×|×|×|×|[https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)|
-|11|製品紹介欄|口コミの  <br>アイコン|3|〇|×|〇|〇|×|×|×|×|×|[https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/](https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/)|
-|12|機能|ポップアップ|2|×|×|×|×|〇|〇|×|×|×|[https://g.babysitter-best.net/](https://g.babysitter-best.net/)|
-|13|機能|診断コンテンツ|4|×|×|〇|〇|〇|〇|×|×|×|[https://g.babysitter-best.net/](https://g.babysitter-best.net/)|
-|14|機能|レポートがダウンロードできる|2|×|×|×|×|〇|×|×|×|×|[https://buzzpark.jp/feature/realestate-ichioshi-04](https://buzzpark.jp/feature/realestate-ichioshi-04)|
-|15|機能|追従式の資料のダウンロード|2|×|×|×|×|〇|×|×|×|×|[https://buzzpark.jp/feature/realestate-ichioshi-04](https://buzzpark.jp/feature/realestate-ichioshi-04)|
-|16|機能|選び方の資料|1|×|×|×|×|〇|×|×|×|×|[https://www.abkss.jp/blog/169](https://www.abkss.jp/blog/169)|
-|17|その他|企業の  <br>カオスマップ|4|×|×|×|〇|×|×|×|×|×|[https://resemom.jp/mitsukaru-eikaiwa/coaching-english/  <br>](https://resemom.jp/mitsukaru-eikaiwa/coaching-english/)[https://fkr.or.jp/realestate-investment-osusume/](https://fkr.or.jp/realestate-investment-osusume/)|
-|18|その他|よくある質問|4|×|〇|×|〇|×|×|〇|〇|×|[https://fkr.or.jp/realestate-investment-osusume/](https://fkr.or.jp/realestate-investment-osusume/)|
+|     |                                                                                                                                                                                                                                                |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4-3 | 最もイメージ  <br>に近いサイト                                                                                                                                                                                                                             |
+| ×   | [https://englishfactor.jp/media/online/english-coaching/](https://englishfactor.jp/media/online/english-coaching/)                                                                                                                             |
+| 〇   | [https://mybest-pick.com/ab/realestate-toushi-hikaku02](https://mybest-pick.com/ab/realestate-toushi-hikaku02)  <br>[https://fkr.or.jp/realestate-investment-osusume/](https://fkr.or.jp/realestate-investment-osusume/)                       |
+| ×   | [https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)                                                                                                                                                 |
+| ×   | [https://resemom.jp/mitsukaru-eikaiwa/coaching-english/](https://resemom.jp/mitsukaru-eikaiwa/coaching-english/)                                                                                                                               |
+| ×   | [https://mybest-pick.com/ab/realestate-toushi-hikaku02](https://mybest-pick.com/ab/realestate-toushi-hikaku02)                                                                                                                                 |
+| 〇   | [https://resemom.jp/mitsukaru-eikaiwa/coaching-english/](https://resemom.jp/mitsukaru-eikaiwa/coaching-english/)                                                                                                                               |
+| ×   | [https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)                                                                                                                                                 |
+| ×   | [https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/  <br>](https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/)[https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/) |
+| ×   | [https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)                                                                                                                                                 |
+| ×   | [https://lp.setsuzei.net/realestateinvestment/](https://lp.setsuzei.net/realestateinvestment/)                                                                                                                                                 |
+| ×   | [https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/](https://mabutanoclinic.jp/column/kumatori/ginza-kumatori-recommend/)                                                                                                     |
+| ×   | [https://g.babysitter-best.net/](https://g.babysitter-best.net/)                                                                                                                                                                               |
+| ×   | [https://g.babysitter-best.net/](https://g.babysitter-best.net/)                                                                                                                                                                               |
+| ×   | [https://buzzpark.jp/feature/realestate-ichioshi-04](https://buzzpark.jp/feature/realestate-ichioshi-04)                                                                                                                                       |
+| ×   | [https://buzzpark.jp/feature/realestate-ichioshi-04](https://buzzpark.jp/feature/realestate-ichioshi-04)                                                                                                                                       |
+| ×   | [https://www.abkss.jp/blog/169](https://www.abkss.jp/blog/169)                                                                                                                                                                                 |
+| ×   | [https://resemom.jp/mitsukaru-eikaiwa/coaching-english/  <br>](https://resemom.jp/mitsukaru-eikaiwa/coaching-english/)[https://fkr.or.jp/realestate-investment-osusume/](https://fkr.or.jp/realestate-investment-osusume/)                     |
+| ×   | [https://fkr.or.jp/realestate-investment-osusume/](https://fkr.or.jp/realestate-investment-osusume/)                                                                                                                                           |
