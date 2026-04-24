@@ -8,38 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41285257b069819c",
+            "id": "2ddaa681e65cc1dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "キメレルアップデートPJT/PJT概要.md",
+                "file": "キメレルアップデートPJT/01_ 課題からアップデートする考え方/改善案整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PJT概要"
-            }
-          },
-          {
-            "id": "2ddaa681e65cc1dc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "キメレルアップデートPJT/タスク管理.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "タスク管理"
+              "title": "改善案整理"
             }
           }
         ]
@@ -177,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "キメレルアップデートPJT/PJT概要.md",
+                "file": "キメレルアップデートPJT/01_ 課題からアップデートする考え方/改善案整理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PJT概要のアウトライン"
+              "title": "改善案整理のアウトライン"
             }
           }
         ]
@@ -206,13 +185,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "41285257b069819c",
+  "floating": {
+    "id": "9d4eed1a58df6c7b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9433304fe1d5e362",
+        "type": "window",
+        "children": [
+          {
+            "id": "0c965bfffbcbfe59",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41285257b069819c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "キメレルアップデートPJT/PJT概要.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "PJT概要"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 684,
+        "y": -812,
+        "width": 936,
+        "height": 685,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2ddaa681e65cc1dc",
   "lastOpenFiles": [
+    "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方/04-22.md",
+    "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方/04-20.md",
+    "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver3.md",
+    "キメレルアップデートPJT/PJT概要.md",
     "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
     "キメレルアップデートPJT/タスク管理.md",
-    "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver3.md",
     "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver2.md",
-    "キメレルアップデートPJT/PJT概要.md",
     "谷口さん/Open Time.md",
     "キメレルアップデートPJT/このフォルダの開発方針.md",
     "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver1.md",
@@ -223,8 +243,6 @@
     "キメレルアップデートPJT/04_改善策を考える？",
     "キメレルアップデートPJT/01_ 課題からアップデートする考え方/キメレルの課題.md",
     "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方/04-15.md",
-    "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方/04-22.md",
-    "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方/04-20.md",
     "キメレルアップデートPJT/03_キメレルのVPを考えるやり方",
     "キメレルアップデートPJT/01_キメレル競合分析/PJT概要.md",
     "キメレルアップデートPJT/01_キメレル競合分析/調査内容整理.md",
