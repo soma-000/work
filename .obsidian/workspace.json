@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ステップ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,7 +225,7 @@
       }
     ]
   },
-  "active": "41285257b069819c",
+  "active": "06a4ad0da534937e",
   "lastOpenFiles": [
     "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
     "キメレルアップデートPJT/PJT概要.md",
