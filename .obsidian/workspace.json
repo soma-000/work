@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "野中さんMTG メモ"
             }
+          },
+          {
+            "id": "42c938f9652b73dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "その他/Reboot-1on1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reboot-1on1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
+                "file": "その他/Reboot-1on1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "野中さんMTG メモのアウトライン"
+              "title": "Reboot-1on1のアウトライン"
             }
           }
         ]
@@ -256,11 +271,12 @@
       }
     ]
   },
-  "active": "27ab58b92a08bd3b",
+  "active": "42c938f9652b73dc",
   "lastOpenFiles": [
+    "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
+    "その他/Reboot-1on1.md",
     "キメレルアップデートPJT/99_日々の蓄積/改善案整理.md",
     "キメレルアップデートPJT/99_日々の蓄積/反省点.md",
-    "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
     "キメレルアップデートPJT/タスク管理.md",
     "キメレルアップデートPJT/PJT概要.md",
     "キメレルアップデートPJT/このフォルダの開発方針.md",
