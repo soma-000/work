@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
+                "file": "キメレルアップデートPJT/タスク管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "野中さんMTG メモのアウトライン"
+              "title": "タスク管理のアウトライン"
             }
           }
         ]
@@ -231,10 +231,10 @@
       }
     ]
   },
-  "active": "7e57de3980f8751d",
+  "active": "2ddaa681e65cc1dc",
   "lastOpenFiles": [
-    "キメレルアップデートPJT/タスク管理.md",
     "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
+    "キメレルアップデートPJT/タスク管理.md",
     "キメレルアップデートPJT/PJT概要.md",
     "キメレルアップデートPJT/このフォルダの開発方針.md",
     "キメレルアップデートPJT/99_日々の蓄積/気づき・所感.md",
