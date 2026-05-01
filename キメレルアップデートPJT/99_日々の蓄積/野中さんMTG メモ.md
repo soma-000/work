@@ -28,7 +28,7 @@ https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marke
 
 
 施策の評価、施策のイメージ
-優先順位は、
+優先順位は、ブラッシュアップ
 
 
 ---
