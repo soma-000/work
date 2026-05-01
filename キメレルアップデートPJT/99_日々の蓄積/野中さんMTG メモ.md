@@ -3,6 +3,10 @@
 ・注意が来るだけですぐに変える必要はない
 ・二個に分ける
 ⇒
+https://kaigo-tenshokuguide.com/information/
+⇒当サイトはアフィじゃないです
+
+
 
 ### 4/30
 
