@@ -12,7 +12,10 @@ https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marke
 ⇒有識者表記、これはダメある
 ⇒これはいいのか
 
-・啓蒙コンテンツはお客さんのため、
+・啓蒙コンテンツはお客さんのため、お客さんのため
+
+・ASPの介入があると
+
 ### 4/30
 
 ・課題を解決できるか
