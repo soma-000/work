@@ -14,7 +14,10 @@ https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marke
 
 ・啓蒙コンテンツはお客さんのため、お客さんのため
 
-・ASPの介入があると
+・ASPの介入があると、リンクを置くだけでマネタイズできる
+
+送客ができるアフィ
+⇒
 
 ### 4/30
 
