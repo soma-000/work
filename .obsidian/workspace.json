@@ -14,7 +14,15 @@
               "type": "kanban",
               "state": {
                 "file": "キメレルアップデートPJT/タスク管理.md",
-                "kanbanViewState": {}
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
               "icon": "lucide-trello",
               "title": "タスク管理"
@@ -186,18 +194,18 @@
   },
   "active": "42c938f9652b73dc",
   "lastOpenFiles": [
+    "キメレルアップデートPJT/このフォルダの開発方針.md",
+    "キメレルアップデートPJT/PJT概要.md",
+    "キメレルアップデートPJT/タスク管理.md",
     "Untitled Kanban.md",
     "無題のファイル.base",
     "無題のファイル.canvas",
     "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
-    "キメレルアップデートPJT/タスク管理.md",
     "その他/コリンの約束ワーク.md",
     "その他/Reboot-1on1.md",
     "キメレルアップデートPJT/99_日々の蓄積/気づき・所感.md",
     "キメレルアップデートPJT/99_日々の蓄積/改善案整理.md",
     "キメレルアップデートPJT/99_日々の蓄積/反省点.md",
-    "キメレルアップデートPJT/PJT概要.md",
-    "キメレルアップデートPJT/このフォルダの開発方針.md",
     "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方/04-22.md",
     "キメレルアップデートPJT/01_ 課題からアップデートする考え方/日々の進め方/04-20.md",
     "キメレルアップデートPJT/02_理想状態と今をつなぐ考え方/理想状態の言語化 ver3.md",
