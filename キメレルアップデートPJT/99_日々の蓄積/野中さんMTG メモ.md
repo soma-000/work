@@ -19,6 +19,7 @@ https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marke
 送客ができるアフィ
 めっちゃ条件が薄い
 
+・〇▽
 
 ### 4/30
 
