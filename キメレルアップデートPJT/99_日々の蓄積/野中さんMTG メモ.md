@@ -17,7 +17,8 @@ https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marke
 ・ASPの介入があると、リンクを置くだけでマネタイズできる
 
 送客ができるアフィ
-⇒
+めっちゃ条件が薄い
+
 
 ### 4/30
 
