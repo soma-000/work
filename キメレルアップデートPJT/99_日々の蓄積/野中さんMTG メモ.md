@@ -6,6 +6,10 @@
 https://kaigo-tenshokuguide.com/information/
 ⇒当サイトはアフィじゃないです
 
+▼
+https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marketing
+⇒有識者表記、これはダメある
+⇒これはいいのか
 
 
 ### 4/30
