@@ -11,21 +11,14 @@
             "id": "42c938f9652b73dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "キメレルアップデートPJT/タスク管理.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "タスク管理"
+              "icon": "lucide-file",
+              "title": "野中さんMTG メモ"
             }
           }
         ]
@@ -163,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "キメレルアップデートPJT/タスク管理.md",
+                "file": "キメレルアップデートPJT/99_日々の蓄積/野中さんMTG メモ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "タスク管理のアウトライン"
+              "title": "野中さんMTG メモのアウトライン"
             }
           }
         ]
@@ -194,9 +187,9 @@
   },
   "active": "42c938f9652b73dc",
   "lastOpenFiles": [
+    "キメレルアップデートPJT/タスク管理.md",
     "キメレルアップデートPJT/このフォルダの開発方針.md",
     "キメレルアップデートPJT/PJT概要.md",
-    "キメレルアップデートPJT/タスク管理.md",
     "Untitled Kanban.md",
     "無題のファイル.base",
     "無題のファイル.canvas",
