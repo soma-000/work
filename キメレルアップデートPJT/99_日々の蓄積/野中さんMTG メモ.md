@@ -26,6 +26,9 @@ https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marke
 △：関係値悪い、解約や炎上リスク
 ✕：関係値悪い、炎上発生
 
+
+施策の評価、施策のイメージ
+
 ---
 
 ### 4/30
